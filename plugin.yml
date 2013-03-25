@@ -1,0 +1,20 @@
+name: Chatflow
+main: me.muffinjello.chatflow.chatflow
+version: "0.51"
+author: Muffinjello Pylamo Jeff
+commands:
+    chatflow:
+        description: Find out more about chatflow!
+        usage: /chatflow
+    flowsilence:
+        description: silences a player
+        usage: /flowsilence
+    flowunsilence:
+        description: unsilences a silenced player
+        usage: /flowunsilence
+    flowconnect:
+        description: connects the Chatflow plugin with another server
+        usage: /flowconnect
+    flowupdate:
+        description: updates chatflow
+        usage: /flowupdate
