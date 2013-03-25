@@ -1,5 +1,4 @@
-ChatFlow - What is it?
-
-A cross server - Chat Plugin for minecraft.
-
-Current Version: V0.6
+#ChatFlow
+======
+####Terms of use
+All rights reserved - only use the sourcecode for developing Addons for Chatflow using the API.
